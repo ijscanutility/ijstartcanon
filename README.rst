@@ -40,6 +40,5 @@ License
 
 The project is licensed under the BSD license.
 
-- https://karinov.co.id - jasa digital marketing indonesia
-- https://www.autobild.co.id/ - direktori service center dan brand ternama Indonesia
-- https://www.navi.id - navigator panduan cara indonesia
+- https://ijstartcanons.com - Ij start canon
+- https://scansnap-fujitsu.com/ - Scansnap fujitsu
