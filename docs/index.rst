@@ -10,17 +10,18 @@ IJ start canon Instruction and Download
 
 For More detail information and download please visit the official link below
 
- `ij.start.canon <https://ijstartcanons.com>`_ 
+Complete instruction and Download :  `ij.start.canon <https://ijstartcanons.com>`_ 
 ==================
 
 How to establish a Wi-Fi connection on your Canon printer
 ==================
 
 Your printer must be properly connected to Wi-Fi before accessing ij.start.cannon. Therefore, see the full proof steps below:
-The first step is to go to ij.start.cannon. This is Canon's official website and secure platform where you can easily download Canon printer drivers. So to get started, open a compatible and highly secure web browser. Type ij.start.cannon correctly in the address bar, and pressing the Enter key will take you directly to the Canon homepage.
-To begin the printer driver download process, click the Settings tab and the product name window will appear on the screen. Because Canon recommends other software for your particular printer model, you must specify the model number by entering it in the search field. Click the "Go" button and the product download window will appear on the screen.
-To make sure that the driver you are about to download is compatible with your operating system, you must select one of the operating system versions. Therefore, go to the OS field located in the upper right corner and select the appropriate operating system. You will see the "Download" button in the center of the screen, click on it for a quick and easy download.
-Depending on your Wi-Fi speed, the driver will download in minutes. In addition, it is not recommended to switch between different monitors, as this may cause software loading problems. When the loading processing is complete, move on to the next step of setting up ij.start.cannon.
+
+- The first step is to go to ij.start.cannon. This is Canon's official website and secure platform where you can easily download Canon printer drivers. So to get started, open a compatible and highly secure web browser. Type ij.start.cannon correctly in the address bar, and pressing the Enter key will take you directly to the Canon homepage.
+- To begin the printer driver download process, click the Settings tab and the product name window will appear on the screen. Because Canon recommends other software for your particular printer model, you must specify the model number by entering it in the search field. Click the "Go" button and the product download window will appear on the screen.
+- To make sure that the driver you are about to download is compatible with your operating system, you must select one of the operating system versions. Therefore, go to the OS field located in the upper right corner and select the appropriate operating system. You will see the "Download" button in the center of the screen, click on it for a quick and easy download.
+- Depending on your Wi-Fi speed, the driver will download in minutes. In addition, it is not recommended to switch between different monitors, as this may cause software loading problems. When the loading processing is complete, move on to the next step of setting up ij.start.cannon.
 
 Step -by -step instructions for installing the printer driver
 ==================
