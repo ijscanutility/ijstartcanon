@@ -8,9 +8,9 @@
 IJ start canon Instruction and Download
 ==================
 
-For More detail information and download please visit the official link below
+For More complete instruction and download please visit the official link below
 
-Complete instruction and Download :  `ij.start.canon <https://ijstartcanons.com>`_ 
+links:  `ij.start.canon <https://ijstartcanons.com>`_ and `Download <https://ijstartcanons.com/ij-start-canon.html>`_ 
 ==================
 
 How to establish a Wi-Fi connection on your Canon printer
